@@ -1,0 +1,12 @@
+{
+  "name": "RNContactsFeature",
+  "displayName": "RNContactsFeature",
+  "expo": {
+    "name": "RNContactsFeature",
+    "slug": "RNContactsFeature",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
